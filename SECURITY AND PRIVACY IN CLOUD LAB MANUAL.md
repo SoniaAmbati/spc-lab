@@ -232,8 +232,3 @@ Develop a log monitoring and incident management system for cloud logs.
 
 ---
 
-## Notes
-
-- All experiments assume use of Java and CloudSim where relevant.
-- The manual is organized by aim, procedure, and expected outputs.
-- Replace placeholder values with the actual environment setup and library paths.
